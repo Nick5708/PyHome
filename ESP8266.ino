@@ -4,7 +4,7 @@ const char* ssid = "PIM77";
 const char* password = "19771016";
 
 const uint16_t port = 80;
-const char* host = "194.87.237.49"; // ip or dns
+const char* host = "194.87.237.49"; 
 
 String data;
 
