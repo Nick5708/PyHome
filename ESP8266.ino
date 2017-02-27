@@ -1,10 +1,10 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "PIM77";
-const char* password = "19771016";
+const char* ssid = "****";                  //имя сети
+const char* password = "****";              //пароль
 
-const uint16_t port = 80;
-const char* host = "194.87.237.49"; 
+const uint16_t port = 80;                   //порт
+const char* host = "194.87.237.49";         //ip/dns адрес сервера
 
 String data;
 
